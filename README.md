@@ -1,4 +1,4 @@
-# SQL-Interview-Questions
+# SQL Interview Questions
 ## Introduction: 
 A repository for storing my answers for Sql interviews.
 
