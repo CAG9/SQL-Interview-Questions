@@ -7,7 +7,7 @@ A repository for storing my answers for Sql interviews.
 - Hackerrank
 - Cracking the Coding Interview
 
-## Language used:
+## Relational Database Management System:
 - MySQL
 
 ## License : 
