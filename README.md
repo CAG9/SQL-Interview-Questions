@@ -1,7 +1,7 @@
 # SQL Interview Questions
 ## Author: 
 - Cesar Arcos-Gonzalez: cesar99ag@gmail.com
-## Introduction: 
+## About: 
 A repository for storing my answers for Sql interviews.
 
 ## Resources:
