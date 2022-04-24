@@ -8,6 +8,7 @@ A repository for storing my answers for Sql interviews.
 - LeetCode
 - Hackerrank
 - Cracking the Coding Interview
+- Youtube
 
 ## Relational Database Management System Used:
 - MySQL
