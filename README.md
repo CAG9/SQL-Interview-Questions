@@ -9,7 +9,8 @@ A repository for storing my answers for Sql interviews.
 - Hackerrank
 - Cracking the Coding Interview
 - Youtube
-- Other
+- Stratascratch
+- Interviewquery
 ## Relational Database Management System Used:
 - MySQL
 
