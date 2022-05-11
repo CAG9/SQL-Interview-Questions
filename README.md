@@ -2,8 +2,7 @@
 ## Author: 
 - Cesar Arcos-Gonzalez: cesar99ag@gmail.com
 ## About: 
-A repository for storing my answers for Sql interviews.
-
+A repository to store my sql practice problems.
 ## Resources:
 - LeetCode
 - Hackerrank
@@ -11,6 +10,7 @@ A repository for storing my answers for Sql interviews.
 - Youtube
 - Stratascratch
 - Interviewquery
+- 
 ## Relational Database Management System Used:
 - MySQL
 
