@@ -1,4 +1,5 @@
-# SQL Interview Questions
+# SQL Practice Problems
+
 ## Author: 
 - Cesar Arcos-Gonzalez: cesar99ag@gmail.com
 ## About: 
