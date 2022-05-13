@@ -1,0 +1,12 @@
+WITH grouped AS (
+                select * from facebook_friends
+                UNION
+                select user2, user1
+                FROM facebook_friends)
+                
+
+
+SELECT user1, COUNT(user1) / (SELECT ROW_NUMBER() OVER() FROM (SELECT DISTINCT user1 FROM grouped) sub ORDER BY 1 DESC LIMIT 1) * 100 AS counted 
+FROM grouped
+GROUP BY user1
+ORDER BY  2 DESC ;
