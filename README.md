@@ -11,7 +11,6 @@ A repository to store my sql practice problems.
 - Youtube
 - Stratascratch
 - Interviewquery
-- 
 ## Relational Database Management System Used:
 - MySQL
 
