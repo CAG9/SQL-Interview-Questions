@@ -3,7 +3,7 @@
 ## Author: 
 - Cesar Arcos-Gonzalez: cesar99ag@gmail.com
 ## About: 
-A repository to store my sql practice problems.
+A repository to store my sql problem solutions.
 ## Resources:
 - LeetCode
 - Hackerrank
