@@ -1,18 +1,18 @@
 # SQL Practice Problems
 
-## Author: 
+## Author
 - Cesar Arcos-Gonzalez: cesar99ag@gmail.com
-## About: 
+## About
 A repository to store my sql problem solutions.
-## Resources:
+## Resources
 - LeetCode
 - Hackerrank
 - Cracking the Coding Interview
 - Youtube
 - Stratascratch
 - Interviewquery
-## Relational Database Management System Used:
+## Relational Database Management System Used
 - MySQL
 
-## License : 
+## License 
 MIT License
