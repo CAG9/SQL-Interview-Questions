@@ -1,8 +1,8 @@
-with temp as (
-select 
-    case when (lead(num) over(order by id) = num and lag(num) over(order by id) = num) 
-    then num end as ConsecutiveNums
-from Logs)
+with temp AS (
+SELECT 
+    case when (lead(num) over(ORDER BY id) = num AND lag(num) over(ORDER BY id) = num) 
+    then num end AS ConsecutiveNums
+FROM Logs)
 
-select distinct ConsecutiveNums from temp 
-where ConsecutiveNums is not null
+SELECT DISTINCT ConsecutiveNums FROM temp 
+WHERE ConsecutiveNums IS NOT NULL;
