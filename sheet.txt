@@ -1,0 +1,11 @@
+STINGS LIKE,
+'A%' start with
+'%e' end with
+ORDER BY RIGHT(Name,3)
+ RIGHT(Name,3) get the last 3 characters 
+name ASC alphabetic order 
+SUM()
+AVG()
+FLOOR() rounded down to the nearest integer.
+ROUND(X,2)rounded to a scale of  decimal places
+TRUNCATE(SUM(LAT_N),4) Truncate your answer to  decimal places.
