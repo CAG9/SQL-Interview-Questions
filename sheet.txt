@@ -9,3 +9,5 @@ AVG()
 FLOOR() rounded down to the nearest integer.
 ROUND(X,2)rounded to a scale of  decimal places
 TRUNCATE(SUM(LAT_N),4) Truncate your answer to  decimal places.
+INNER JOIN CITY ON COUNTRY.CODE = CITY.COUNTRYCODE
+GROUP BY COUNTRY.CONTINENT
